@@ -84,6 +84,7 @@ public class TrainExport {
         ServletOutputStream outputStream = response.getOutputStream();
         workbook.write(outputStream);
         workbook.close();
+        System.out.println("Thêm lần 1");
 
         outputStream.close();
 
