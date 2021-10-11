@@ -89,6 +89,8 @@ public class TrainExport {
         System.out.println("Thanh nè");
         outputStream.close();
 
+        System.out.println("Task B");
+
         System.out.println("A2");
     }
 
