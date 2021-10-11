@@ -91,6 +91,10 @@ public class TrainExport {
 
     }
 
+    public void test(){
+        System.out.println("Feature A");
+    }
+
 
 
 
