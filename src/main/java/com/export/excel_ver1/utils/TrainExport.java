@@ -91,6 +91,11 @@ public class TrainExport {
 
         System.out.println("Task B");
 
+        System.out.println("A2");
+    }
+
+    public void test(){
+        System.out.println("Feature A");
     }
 
 
